@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Abishethvarman V"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Vadivel Abishethvarman"
+description              : &description "Personal Academic Website"
+url                      : https://abishethvarman.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,32 +23,32 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Vadivel Abishethvarman"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Never stop learning"
+  location         : "Batticaloa"
+  employer         : "QCITS"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "abishethvarman@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : #"https://independent.academia.edu/AbiShek16"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=NS_NqM4AAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/0009-0003-5069-6974"
+  semantic         : "https://www.semanticscholar.org/author/Vadivel-Abishethvarman/2297954854/"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Vadivel-Abishethvarman"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           : "abishethvarman"
+  kaggle           : "coderwarman"  
+  stackoverflow    : "https://stackoverflow.com/users/13207158/abishethvarman-v"    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
@@ -58,9 +58,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : #"abishethvarman-v"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "abishethvarman-v"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
